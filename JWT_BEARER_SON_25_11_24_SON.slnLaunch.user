@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AspNetCoreAPI-Jwt-Bearer\\AspNetCoreAPI-Jwt-Bearer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AspNetCoreMvc-Jwt-Bearer\\AspNetCoreMvc-Jwt-Bearer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
